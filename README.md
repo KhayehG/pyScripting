@@ -166,7 +166,7 @@ Generated: 2025-06-01 14:23:11
 
 **Khayelihle Genius Dlamini**
 - GitHub: [@KhayehG](https://github.com/KhayehG)
-- Email: mrdlamini321@gmail.com
+- Email: www.mrdlamini321@gmail.com
 - Location: Durban, South Africa
 
 ---
