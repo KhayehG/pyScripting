@@ -2,3 +2,5 @@ data/
 outputs/
 *.db
 *.txt
+__pycache__/
+.venv/
